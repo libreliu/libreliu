@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 Ongoing projects:
 - [ ] organize FEM course note
 - [ ] wrote first fluid-solid coupling simulator
@@ -22,3 +24,5 @@ Ongoing projects:
 - [ ] Audio-QSL-Card project
 - [ ] QSL Card of my own
 - [ ] Digitalized log management for BY6DX
+
+-->
