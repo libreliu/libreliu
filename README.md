@@ -1,5 +1,9 @@
 ### It's libreliu here!
 
+I'm currently a Master student in USTC[https://www.ustc.edu.cn/], and my primary interest lies in Computer Graphics.
+
+I've got my callsign BG6HIB, and currently I'm an operator for [@BY6DX](https://github.com/BY6DX).
+
 <!--
 **libreliu/libreliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
