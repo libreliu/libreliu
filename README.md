@@ -8,6 +8,7 @@ I've got my callsign BG6HIB, and currently I'm an operator for [@BY6DX](https://
   <summary>Somewhat comprehensive list on repositories worth mentioning</summary>
   
   ## Projects
+  - [ShaderPerFormer](https://github.com/libreliu/ShaderPerFormer): Data-driven shader performance predictor, published in I3D'2024.
   - [Verilog-OJ](https://github.com/YAVGroup/Verilog-OJ): Verilog online judge service
   - [lighthouse2-nrc-refactor](https://github.com/libreliu/lighthouse2-nrc-refactor): Expermental implementation of Neural Radiance Caching (NRC) on lighthouse2 renderer
   - [GeoProcessing](https://github.com/libreliu/GeoProcessing): Expermental implementation on computing cuts for high genus surfaces
