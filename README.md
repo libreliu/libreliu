@@ -1,6 +1,6 @@
 ### It's libreliu here!
 
-I'm currently a Game Development Engineer at Tencent Lightspeed Studios. I've got my master degree in [USTC](https://www.ustc.edu.cn/), and my primary interest lies in Computer Graphics.
+I'm currently a Game Development Engineer at Tencent LightSpeed Studios. I've got my master degree in [USTC](https://www.ustc.edu.cn/), and my primary interest lies in Computer Graphics.
 
 I've got my callsign BG6HIB, and was an operator for [@BY6DX](https://github.com/BY6DX).
 
